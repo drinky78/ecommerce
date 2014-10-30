@@ -1,11 +1,15 @@
 {
-    "name": "sonata-project/ecommerce",
+    "name": "drinky78/ecommerce",
     "description": "E-Commerce solution provided by Sonata",
     "license": "MIT",
     "authors": [
         {
             "name": "Thomas Rabaix",
             "email": "thomas.rabaix@sonata-project.org"
+        },
+        {
+            "name": "Marco Radossi",
+            "email": "marco.radossi@gmail.com"
         }
     ],
     "require" : {
